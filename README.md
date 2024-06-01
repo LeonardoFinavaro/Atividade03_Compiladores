@@ -6,14 +6,6 @@
 
 Este é um sistema de leitor de livros online, onde o usuário pode adicionar livros que está lendo, procurar por novos livros, atualizar o progresso de leitura e avaliar os livros já lidos.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
 ## Tecnologias Utilizadas
 - Angular
 - JSON Server (ou Firebase) para armazenamento de dados
